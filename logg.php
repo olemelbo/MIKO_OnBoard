@@ -1,0 +1,1 @@
+Kjører en test, for å sjekke om jeg kan pushe til repo. 
