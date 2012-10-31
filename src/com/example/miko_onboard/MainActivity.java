@@ -12,6 +12,8 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         System.out.println("Test");
     }
+    
+    //Martin var her
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
